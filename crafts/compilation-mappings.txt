@@ -1,4 +1,4 @@
-7B6381B2C02605B22024AC9A806C9351.cache.js
+EEBEFC97DC988F19495672F828016240.cache.js
 ClientBundle.enableInlining true
 audioElementSupport maybe
 canvasElementSupport maybe
@@ -17,7 +17,7 @@ gwt.logging.enabled TRUE
 gwt.logging.hasWidgetsHandler DISABLED
 gwt.logging.logLevel INFO
 gwt.logging.simpleConsoleHandler DISABLED
-gwt.logging.simpleRemoteHandler ENABLED
+gwt.logging.simpleRemoteHandler DISABLED
 gwt.logging.systemHandler DISABLED
 gwt.suppressNonStaticFinalFieldWarnings false
 gwt.uncaughtexceptionhandler.windowonerror REPORT_IF_NO_HANDLER
@@ -33,9 +33,6 @@ jre.logging.logLevel ALL
 jre.logging.simpleConsoleHandler DISABLED
 jsinterop.checks DISABLED
 locale default
-restygwt.autodetect.plainText false
-restygwt.conventions.useJavaBeansSpecNaming true
-restygwt.encodeDecode.useGwtJackson false
 rpc.XserializeFinalFields false
 superdevmode off
 touchEventSupport maybe
@@ -43,7 +40,7 @@ user.agent gecko1_8
 videoElementSupport maybe
 webApiUsage modern
 
-7B6381B2C02605B22024AC9A806C9351.cache.js
+EEBEFC97DC988F19495672F828016240.cache.js
 ClientBundle.enableInlining true
 audioElementSupport maybe
 canvasElementSupport maybe
@@ -62,7 +59,7 @@ gwt.logging.enabled TRUE
 gwt.logging.hasWidgetsHandler DISABLED
 gwt.logging.logLevel INFO
 gwt.logging.simpleConsoleHandler DISABLED
-gwt.logging.simpleRemoteHandler ENABLED
+gwt.logging.simpleRemoteHandler DISABLED
 gwt.logging.systemHandler DISABLED
 gwt.suppressNonStaticFinalFieldWarnings false
 gwt.uncaughtexceptionhandler.windowonerror REPORT_IF_NO_HANDLER
@@ -78,9 +75,6 @@ jre.logging.logLevel ALL
 jre.logging.simpleConsoleHandler DISABLED
 jsinterop.checks DISABLED
 locale default
-restygwt.autodetect.plainText false
-restygwt.conventions.useJavaBeansSpecNaming true
-restygwt.encodeDecode.useGwtJackson false
 rpc.XserializeFinalFields false
 superdevmode off
 touchEventSupport no
@@ -88,7 +82,7 @@ user.agent ie10
 videoElementSupport maybe
 webApiUsage modern
 
-7B6381B2C02605B22024AC9A806C9351.cache.js
+EEBEFC97DC988F19495672F828016240.cache.js
 ClientBundle.enableInlining true
 audioElementSupport no
 canvasElementSupport no
@@ -107,7 +101,7 @@ gwt.logging.enabled TRUE
 gwt.logging.hasWidgetsHandler DISABLED
 gwt.logging.logLevel INFO
 gwt.logging.simpleConsoleHandler DISABLED
-gwt.logging.simpleRemoteHandler ENABLED
+gwt.logging.simpleRemoteHandler DISABLED
 gwt.logging.systemHandler DISABLED
 gwt.suppressNonStaticFinalFieldWarnings false
 gwt.uncaughtexceptionhandler.windowonerror REPORT_IF_NO_HANDLER
@@ -123,9 +117,6 @@ jre.logging.logLevel ALL
 jre.logging.simpleConsoleHandler DISABLED
 jsinterop.checks DISABLED
 locale default
-restygwt.autodetect.plainText false
-restygwt.conventions.useJavaBeansSpecNaming true
-restygwt.encodeDecode.useGwtJackson false
 rpc.XserializeFinalFields false
 superdevmode off
 touchEventSupport no
@@ -133,7 +124,7 @@ user.agent ie8
 videoElementSupport no
 webApiUsage modern
 
-7B6381B2C02605B22024AC9A806C9351.cache.js
+EEBEFC97DC988F19495672F828016240.cache.js
 ClientBundle.enableInlining true
 audioElementSupport maybe
 canvasElementSupport maybe
@@ -152,7 +143,7 @@ gwt.logging.enabled TRUE
 gwt.logging.hasWidgetsHandler DISABLED
 gwt.logging.logLevel INFO
 gwt.logging.simpleConsoleHandler DISABLED
-gwt.logging.simpleRemoteHandler ENABLED
+gwt.logging.simpleRemoteHandler DISABLED
 gwt.logging.systemHandler DISABLED
 gwt.suppressNonStaticFinalFieldWarnings false
 gwt.uncaughtexceptionhandler.windowonerror REPORT_IF_NO_HANDLER
@@ -168,9 +159,6 @@ jre.logging.logLevel ALL
 jre.logging.simpleConsoleHandler DISABLED
 jsinterop.checks DISABLED
 locale default
-restygwt.autodetect.plainText false
-restygwt.conventions.useJavaBeansSpecNaming true
-restygwt.encodeDecode.useGwtJackson false
 rpc.XserializeFinalFields false
 superdevmode off
 touchEventSupport no
@@ -178,7 +166,7 @@ user.agent ie9
 videoElementSupport maybe
 webApiUsage modern
 
-7B6381B2C02605B22024AC9A806C9351.cache.js
+EEBEFC97DC988F19495672F828016240.cache.js
 ClientBundle.enableInlining true
 audioElementSupport maybe
 canvasElementSupport maybe
@@ -197,7 +185,7 @@ gwt.logging.enabled TRUE
 gwt.logging.hasWidgetsHandler DISABLED
 gwt.logging.logLevel INFO
 gwt.logging.simpleConsoleHandler DISABLED
-gwt.logging.simpleRemoteHandler ENABLED
+gwt.logging.simpleRemoteHandler DISABLED
 gwt.logging.systemHandler DISABLED
 gwt.suppressNonStaticFinalFieldWarnings false
 gwt.uncaughtexceptionhandler.windowonerror REPORT_IF_NO_HANDLER
@@ -213,9 +201,6 @@ jre.logging.logLevel ALL
 jre.logging.simpleConsoleHandler DISABLED
 jsinterop.checks DISABLED
 locale default
-restygwt.autodetect.plainText false
-restygwt.conventions.useJavaBeansSpecNaming true
-restygwt.encodeDecode.useGwtJackson false
 rpc.XserializeFinalFields false
 superdevmode off
 touchEventSupport maybe
