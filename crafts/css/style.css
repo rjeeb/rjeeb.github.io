@@ -3233,6 +3233,10 @@ input[type=range] + .thumb.active .value {
     border-bottom: 1px solid #ddd;
 }
 
+.form-group .form-control:HOVER {
+    border-color: #adaeaa;
+}
+
 .form-group label.error {
     font-size: 12px;
     display: block;
@@ -6650,9 +6654,8 @@ a.disabled {
 }
 
 .horizontal-radio {
-    display: inline-block;
-    width: auto;
     margin: 5px;
+    width: auto;
 }
 
 .input-addon-container {
@@ -7050,102 +7053,6 @@ a.disabled {
     display: block;
     margin-left: auto;
     margin-right: auto;
-}
-
-.chip {
-    border-radius: 15px;
-    min-width: 50px;
-    height: 32px;
-    margin-left: 5px;
-    margin-top: 5px;
-    line-height: 30px;
-    text-align: center;
-    padding-left: 10px;
-    padding-right: 10px;
-    cursor: pointer;
-    display: inline-flex;
-    align-items: center;
-    vertical-align: middle;
-    border: 1px solid;
-}
-
-.chip[disabled] {
-    cursor: not-allowed;
-    background-color: #a2a2a2 !important;
-    pointer-events: none;
-}
-
-.chip-value {
-    width: 100%;
-    white-space: nowrap;
-    text-align: left;
-}
-
-.chip-addon {
-    align-items: center;
-    font-size: 20px;
-    vertical-align: middle;
-    border-radius: 50%;
-    line-height: 20px;
-}
-
-.chip-addon i {
-    font-size: 20px;
-    border-radius: 50%;
-    line-height: 32px;
-    width: 32px;
-    height: 32px;
-    margin: 0 0px 0 -12px;
-}
-
-.chip-addon .mdi:before {
-    font-size: 20px;
-    border-radius: 50%;
-    line-height: 32px;
-    width: 32px;
-    height: 32px;
-    margin: 0px;
-}
-
-.chip-addon img {
-    border-radius: 50%;
-    width: 34px;
-    height: 34px;
-    margin: 0 8px 0 -12px;
-}
-
-.chip-addon span {
-    line-height: 32px;
-    border-radius: 50%;
-    width: 32px;
-    height: 32px;
-    margin: 0 8px 0 -12px;
-    float: left;
-    font-size: 16px;
-}
-
-.chip-remove {
-    cursor: pointer;
-    width: 30px;
-    height: 30px;
-}
-
-.chip-remove .material-icons {
-    font-size: 20px;
-    vertical-align: middle;
-    border-radius: 50%;
-    width: 22px;
-    height: 22px;
-    line-height: 22px;
-}
-
-.chip-remove[readonly] {
-    pointer-events: none;
-}
-
-.chip-remove[disabled] .material-icons {
-    background-color: #a2a2a2 !important;
-    cursor: not-allowed;
 }
 
 .tags-input {
@@ -7679,6 +7586,7 @@ input[type=tel].disabled-suggestions::-webkit-calendar-picker-indicator {
     border: 0px;
     text-align: left;
     padding: 0;
+    cursor: pointer;
 }
 
 .select-button[disabled] {
